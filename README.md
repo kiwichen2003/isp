@@ -31,6 +31,8 @@ INSTALLATION
 Code is written in python3 and tested in mac. This link can help to install python3: https://stackoverflow.com/questions/24615005/how-to-install-numpy-for-python-3-3-5-on-mac-osx-10-9.  
 Following packages need to be installed: numpy, scipy, matplotlib, pypng. The packages can be installed via "pip3 install packagename" command in the terminal. Once packages are installed run the main.py file by typing "python3 main.py" command in terminal.
 
+* pip install pypng==0.0.18
+
 COMMENTS  
 ========================  
 Please leave your thoughts and comments: mushfiqulalam@gmail.com  
